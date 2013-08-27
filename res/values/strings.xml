@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aplikasi Numerik</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_global">GlobalActivity</string>
+
+    <string-array name="list_menu_numeric_fixed">
+        <item>Metode Secant</item>
+        <item>Metode Newton Rapson</item>
+        <item>Metode Eliminasi Gauss</item>
+        <item>Metode Iterasi Jacob</item>
+        <item>Pengintegralan Numerik</item>
+    </string-array>
+    <string-array name="status_pengguna">
+        <item>Dosen</item>
+        <item>Mahasiswa</item>
+        <item>Pengguna Umum</item>
+    </string-array>
+
+    <string name="title_activity_secant">Secant</string>
+    <string name="keyboard.superscript">Sup<sup>n</sup></string>
+    <string name="keyboard.subscript">Sub<sub>n</sub></string>
+    <string name="keyboard.backspace">⇐</string>
+    <string name="keyboard.plus_minus">+/-</string>
+    <string name="title_activity_result_secant">ResultSecantActivity</string>
+    <string name="title_activity_panduan">PanduanActivity</string>
+    <string name="title_activity_clear">ClearActivity</string>
+    <string name="title_activity_tentang">TentangActivity</string>
+    <string name="title_activity_kritik">KritikActivity</string>
+    <string name="title_activity_newton_raphson">NewtonRaphsonActivity</string>
+
+</resources>
